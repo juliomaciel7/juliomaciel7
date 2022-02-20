@@ -1,4 +1,4 @@
-## Olá. Meu nome é JoqBay Maciel, desenvolvedor, em formação, de back-end em .NET C#.
+## Olá. Meu nome é Júlio Maciel, desenvolvedor, em formação, de back-end em .NET C#.
 <div align="center">
   <a href="https://github.com/JoqBayDeveloper">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliomaciel7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
