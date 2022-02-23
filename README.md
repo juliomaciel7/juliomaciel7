@@ -1,8 +1,11 @@
 
 ## Olá. Meu nome é Júlio C. Maciel. Sou Programador Back-end, em formação, com foco em C# - .NET - ASP.NET. 🙋‍♂️
 
+<hr />
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliomaciel7&show_icons=true&theme=radical)
 
+<hr />
 
 ### Minhas redes sociais:
 
@@ -11,10 +14,9 @@
 + [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/julio7maciel)
 + [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlio-maciel-99a894231/)
 
-
+<hr />
 
 <h2>Meu contexto sobre Tecnologias e Linguagens de programação:</h2>
-<hr />
 
 <table style="width:100%">
   <tr>
@@ -52,6 +54,8 @@
     </td> 
   </tr>
 </table>
+
+<hr />
 
 ### Meus contatos:
 
