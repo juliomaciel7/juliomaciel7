@@ -1,6 +1,13 @@
 
 ## Olá. Meu nome é Júlio C. Maciel. Sou Programador Back-end, em formação, com foco em C# - .NET - ASP.NET. 🙋‍♂️
 
++ Estou realizando o curso Programador Back-end .NET em Escola SENAI Informáticoa do grupo FIEP.
+
++ Em paralelo, estudo a documentação da linguagem C# e plataforma .NET em Microsoft Docs.
+
++ Meu objetivo é trabalhar com desenvolvimento e me tornar um Microsoft MVP.
+
+
 <hr />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliomaciel7&show_icons=true&theme=dark)
