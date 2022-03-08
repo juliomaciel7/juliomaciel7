@@ -14,13 +14,7 @@
 
 <hr />
 
-
-### Minhas redes sociais:
-
- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juliomaciel7)
- [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCl6CfAG_OHF1pIvOHgmcf4Q)
- [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/julio7maciel)
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlio-maciel-99a894231/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliomaciel7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <hr />
@@ -66,11 +60,12 @@
 
 <hr />
 
- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5541995112098&text=)
- <img title="juliomacieldev@gmail.com" alt="Azure" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+ ### Minhas redes sociais e contato:
 
- <hr />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliomaciel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juliomaciel7)
+ [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCl6CfAG_OHF1pIvOHgmcf4Q)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlio-maciel-99a894231/)
+ [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5541995112098&text=)
 
 
 
