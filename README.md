@@ -1,11 +1,29 @@
 
 ## Olá. Meu nome é Júlio C. Maciel. Sou Programador Back-end, em formação, com foco em C# - .NET - ASP.NET. 🙋‍♂️
 
-+ Estou realizando o curso Programador Back-end .NET em Escola SENAI Informáticoa do grupo FIESP SENAI/SP.
+ Estou realizando o curso Programador Back-end .NET em Escola SENAI Informáticoa do grupo FIESP SENAI/SP.
+ 
+Matérias:
 
-+ Em paralelo, estudo a documentação da linguagem C# e plataforma .NET em Microsoft Docs.
++ > Lógica de Programação
++ > Metodologias Ágeis
++ > Codificação Back-End
++ > Banco de Dados
++ > Desenvolvimento de APIs
++ > Testes Unitários
 
-+ Meu objetivo é trabalhar com desenvolvimento e me tornar um Microsoft MVP.
+<hr /> 
+
+ Em paralelo, estou cursando:
+ 
++ > Princípios SOLID
++ > Clean Architecture
++ > Web API
++ > Design Patterns
+
+> Cursos ministrados por Jean Carlos Macoratti - Microsoft MVP.
+
++ Meu objetivo é trabalhar como Desenvolvedor .NET, e assim ter a oportunidade de contruir para o meio empresaria e para a comunidade.
 
 
 <hr />
